@@ -27,6 +27,6 @@
 
 `dillo --version`
 
-- Display Dillo help:
+- Display help:
 
 `dillo --help`
