@@ -1,6 +1,6 @@
 # dillo
 
-> A lightweight browser intended for slow computers.
+> A lightweight web browser intended for slow computers.
 > More information: <https://www.dillo.org/>.
 
 - Open Dillo:
